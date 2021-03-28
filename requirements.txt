@@ -1,0 +1,6 @@
+Flask==1.0.2
+flask-restful
+blueprint==3.4.2
+numpy
+pandas
+scikit-learn==0.24.1
